@@ -1,5 +1,5 @@
 <html>
-  <h1><strong>Alex Rael: ProDev</strong></h1> <BR>
+  <h1><strong>Professional Development</strong></h1> <BR>
   <img src="https://rawcdn.githack.com/alprael/prodev-pics/master/welcome1.png"> <BR>
   <p>I'm currently taking the Java + Android + Salesforce boot camp hosted by CNM Stemulus Center located in downtown Albuquerque, New Mexico where they have various Professional Development workshops. This page is dedicated to the content I produce for those workshops. Enjoy.</p><BR>
      <h3>My<a href="https://rawcdn.githack.com/alprael/Alex_resume_deepdive/c91910683610e4f03774e434fca596e14c7b6401/AlexRaelResume1.pdf">Resume </a>V.4</h3>
